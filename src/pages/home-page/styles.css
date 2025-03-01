@@ -1,0 +1,9 @@
+.container_dynamic_field {
+    position: relative;
+}
+
+.container_dynamic_field > .dynamic-delete-button {
+    position: absolute;
+    right: 50px;
+    top: 8px;
+}
